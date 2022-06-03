@@ -1,5 +1,5 @@
-# 文本阅读插件（Hylsay Text Reading）
-![Hylsay Text Reading](https://ps.w.org/hylsay-text-reading/assets/screenshot-1.png?rev=2641925)
+# 文本阅读插件（Hylsay Text Reading Pro）
+![Hylsay Text Reading Pro](https://ps.w.org/hylsay-text-reading/assets/screenshot-1.png?rev=2641925)
 
 ## 插件介绍：
 
