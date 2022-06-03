@@ -1,0 +1,119 @@
+#hylsaybaiduAudioWrap {
+	margin-bottom: 10px;
+}
+
+#hylsaybaiduAudioWrap .mejs-container,
+#hylsaybaiduAudioWrap .mejs-container .mejs-controls,
+#hylsaybaiduAudioWrap .mejs-embed,
+#hylsaybaiduAudioWrap .mejs-embed body {
+	background: #20a0ff;
+	border-radius: 100px;
+	box-shadow: -.1768rem -.1768rem .25rem hsla(0, 0%, 0%, .35), .1326rem .1326rem .3rem rgba(54, 100, 152, .15), inset 0 0 0 transparent, inset max(1px, .125rem) max(1px, .125rem) max(1px, .25rem) hsla(0, 0%, 100%, .6);
+}
+
+#hylsaybaiduAudioWrap .lrc_content {
+	display: none;
+}
+
+@media screen and (max-width: 650px) {
+	#hylsaybaiduAudioWrap_box {
+		height: 90px;
+		background-size: 100%;
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		margin-top: 10px;
+
+	}
+
+	#hylsaybaiduAudioWrap_box .cover {
+		width: 100%;
+		height: 100%;
+		background-color: rgba(0, 0, 0, .5);
+		text-align: center;
+		color: #fff;
+		overflow: hidden;
+		position: relative;
+		font-family: "楷体";
+		border-radius: 8px;
+	}
+
+	#hylsaybaiduAudioWrap_box ul {
+		width: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		list-style: none;
+		margin-left: -20px;
+	}
+
+	#hylsaybaiduAudioWrap_box .cover li {
+		width: 100%;
+		height: 30px;
+		line-height: 30px;
+		margin: 0;
+		font-size: 14px;
+		overflow: hidden;
+	}
+
+	#hylsaybaiduAudioWrap_box .active {
+		color: greenyellow;
+		font-weight: bold;
+		text-align: center;
+	}
+
+	#hylsaybaiduAudioWrap_box audio {
+		text-align: center;
+	}
+
+}
+
+@media screen and (min-width: 650px) {
+	#hylsaybaiduAudioWrap_box {
+		height: 90px;
+		background-size: 100%;
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		margin-top: 10px;
+
+	}
+
+	#hylsaybaiduAudioWrap_box .cover {
+		width: 100%;
+		height: 100%;
+		background-color: rgba(0, 0, 0, .5);
+		text-align: center;
+		color: #fff;
+		overflow: hidden;
+		position: relative;
+		font-family: "楷体";
+		border-radius: 8px;
+	}
+
+	#hylsaybaiduAudioWrap_box ul {
+		width: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		list-style: none;
+	}
+
+	#hylsaybaiduAudioWrap_box .cover li {
+		width: 100%;
+		height: 30px;
+		line-height: 30px;
+		margin: 0;
+	}
+
+	#hylsaybaiduAudioWrap_box .active {
+		color: greenyellow;
+		font-weight: bold;
+		font-size: 18px;
+		text-align: center;
+	}
+
+	#hylsaybaiduAudioWrap_box audio {
+		text-align: center;
+	}
+}
