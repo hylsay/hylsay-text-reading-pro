@@ -2,7 +2,7 @@
 /*
 Plugin Name: Hylsay Text Reading Pro
 Plugin URI: https://blog.aoaoao.info/post/wordpress-plugin-hylsay-text-reading/
-Description: 语音合成本地化，一次合成终生受用，支持字幕跟随。
+Description: 语音合成本地化，一次合成无限次使用，支持字幕跟随。
 Version: 1.0.0
 Author: hylsay
 Author URI: https://blog.aoaoao.info
